@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GrinlexGH
 - 👀 I’m interested in C++ and Source engine
 - 🌱 I’m currently learning C++
-- 📫 How to reach me - discord: Grin#1487; twitter: GrinlexTw
+- 📫 How to reach me - discord: grinlex; twitter: GrinlexTw
 
 <!---
 GrinlexGH/GrinlexGH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
