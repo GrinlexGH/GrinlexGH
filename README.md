@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @GrinlexGH
-- 👀 I’m interested in C++ and Source engine
-- 🌱 I’m currently learning C++
+- 👋 Hi, I’m @Grin or Max. I love programming on C++ and I also love minecraft✨.
 - 📫 How to reach me - discord: grinlex; twitter: GrinlexTw
 
 <!---
