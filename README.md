@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Grin or Max. I love programming on C++ and I also love minecraft✨.
+- 👋 Hi, I’m @Grin or Max. I love programming on C++ and I also love source engine✨.
 - 📫 How to reach me - discord: grinlex; twitter: GrinlexTw
 
 <!---
